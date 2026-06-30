@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/die-suche-nach-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Die Suche nach dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-suche-nach-dir/) |
+| **Get License** | [Music Rights & Licensing for Die Suche nach dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/die-suche-nach-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Rote Lichter in der City, doch ich suche nur nach dir
+> Late-Night-Vibes in meinem Benz, Babe, wünschte du wärst hier
+> Die 808 drückt durch den Block, doch mein Herz schlägt nur für dich
+> Komm, steig ein und lass uns flieh'n, heute Nacht gibt es nur mich
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
